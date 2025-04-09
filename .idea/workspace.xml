@@ -21,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -143,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744212936687</updated>
       <workItem from="1744212937727" duration="367000" />
-      <workItem from="1744213317329" duration="660000" />
+      <workItem from="1744213317329" duration="1175000" />
     </task>
     <servers />
   </component>
